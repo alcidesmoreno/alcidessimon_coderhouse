@@ -1,0 +1,13 @@
+Objetivos:
+
+1) Generar un script (formato .py o .ipynb) que funcione como prototipo (MVP) de un ETL para el proyecto final
+
+2) El script debería extraer datos desde una API en formato JSON para ser manipulado como diccionario utilizando el lenguaje Python
+
+3) Generar una tabla para ser almacenada en una base de datos a partir de información una API.
+
+Requisitos:
+
+1) Código/Script
+
+2) Tabla en Amazon Redshift
