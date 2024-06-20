@@ -13,5 +13,5 @@ El script `earthquake_etl_redshift.py` realiza las siguientes tareas:
 ## Requisitos
 
 - Python 3.x
-- Paquetes Python: `requests`, `psycopg2-binary`, `python-dotenv`
+- Paquetes Python: `requests`, `psycopg2-binary`, `python-dotenv`, `pandas`
 - Una base de datos Amazon Redshift
