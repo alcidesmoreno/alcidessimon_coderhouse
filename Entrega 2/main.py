@@ -3,6 +3,7 @@ from config import load_env, get_db_params, get_api_url
 from extract import extract_data
 from transform import transform_data
 from load import load_data
+import pandas as pd
 
 def main():
     load_env()
